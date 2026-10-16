@@ -1,0 +1,16 @@
+{
+  "name": "go-service-skills",
+  "owner": {
+    "name": "Dehuk"
+  },
+  "metadata": {
+    "description": "Skills for Go backend microservice development"
+  },
+  "plugins": [
+    {
+      "name": "go-service-skills",
+      "source": "./",
+      "description": "Skills for Go backend microservice development"
+    }
+  ]
+}

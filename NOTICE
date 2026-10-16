@@ -1,0 +1,12 @@
+Parts of this plugin (skills, agents and commands marked with `origin: ECC`
+in their frontmatter, or adapted from them) are derived from ECC
+(https://github.com/affaan-m/ECC), Copyright (c) 2026 Affaan Mustafa,
+licensed under the MIT License. See LICENSE-ECC for the full license text.
+
+The derived files have been rewritten for Go backend services and differ
+substantially from the originals.
+
+The postgres-patterns skill and the database-reviewer agent are also
+partly based on Supabase Agent Skills (https://github.com/supabase/agent-skills),
+Copyright (c) 2026 Supabase, licensed under the MIT License, as included in
+ECC. See LICENSE-SUPABASE for the full license text.
