@@ -10,7 +10,7 @@ Add this to the service's `.claude/settings.json` and commit it:
 {
   "extraKnownMarketplaces": {
     "go-service-skills": {
-      "source": { "source": "github", "repo": "GoServiceSkills" }
+      "source": { "source": "github", "repo": "dehuk/GoServiceSkills" }
     }
   },
   "enabledPlugins": {
